@@ -4,7 +4,7 @@
     --r-background-color: ivory;
     --r-block-margin: 10px;
     --r-main-font: Montserrat,Source Sans Pro,Helvetica,sans-serif;
-    --r-main-font-size: 24pt;
+    --r-main-font-size: 12pt;
     --r-main-color: black;
     --r-heading-font: Lexend Deca,Source Sans Pro,Helvetica,sans-serif;
     --r-heading-font-weight: normal;
@@ -16,6 +16,18 @@
     --r-link-color: #ee4466;
     --r-link-color-dark: #77335e;
     --r-link-color-hover: #f2738c;
+}
+
+@media screen and (min-width: 700px) and (max-height: 899px) {
+    :root {
+        --r-main-font-size: 18pt;
+    }
+}
+
+@media screen and (min-width: 900px) and (min-height: 900px) {
+    :root {
+        --r-main-font-size: 24pt;
+    }
 }
 
 .small-caps { font-variant: small-caps; }
