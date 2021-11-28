@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@400;700&family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+    --r-background-color: ivory;
+    --r-block-margin: 10px;
+    --r-main-font: Montserrat,Source Sans Pro,Helvetica,sans-serif;
+    --r-main-font-size: 24pt;
+    --r-main-color: black;
+    --r-heading-font: Lexend Deca,Source Sans Pro,Helvetica,sans-serif;
+    --r-heading-font-weight: normal;
+    --r-heading2-size: 1.85em;
+    --r-heading3-size: 1.2em;
+    --r-heading-text-transform: none;
+    --r-heading-color: #ee4466;
+    --r-heading-margin: var(--r-block-margin) 0;
+    --r-link-color: #ee4466;
+    --r-link-color-dark: #77335e;
+    --r-link-color-hover: #f2738c;
+}
+
+.small-caps { font-variant: small-caps; }
+.green { color: green }
+.red { color: red }
+.reveal .slides { text-align: left }
+.reveal small { color: #996666; font-size: 1em; }
+.structure, li::marker { color: #ee4466 }
+.reveal ul { margin: 0 0 0 1.5em }
+.reveal li { margin: 0 0 10px 0 }
+.reveal h1 {
+    --r-heading-font-weight: bold;
+    --r-heading-line-height: 0.9;
+}
+.reveal h2+p { margin: -15px 0 0 }
+
+#reveal-header {
+    display: none;
+    background: linear-gradient(to right, #002255, #0044aa);
+    padding: .3em 1ex .35em;
+    color: white;
+    width: 100vw;
+    z-index: 999;
+    position: absolute;
+    font-family: var(--r-heading-font);
+    font-size: var(--r-heading3-size);
+    font-weight: var(--r-heading-font-weight);
+    line-height: var(--r-heading-line-height);
+}
+.reveal-header #reveal-header {
+    display: block;
+}
+.reveal-header section {
+    margin-top: .25em;
+}

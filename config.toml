@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "fr-fr"
+title = "Survivre à son recruteur"
+enableInlineShortcodes = true
+
+[author]
+name = "Rémi Dubois • STI 2011"
+email = "team-cv@rdubois.fr"
+
+[markup.goldmark.renderer]
+unsafe = true

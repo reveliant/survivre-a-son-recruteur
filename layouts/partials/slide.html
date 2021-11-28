@@ -1,0 +1,5 @@
+                
+                <section{{ if .CurrentSection}} data-state="reveal-header" data-header="{{ .CurrentSection.Title }}"{{ end }}>
+                    <h3>{{ .Title | markdownify }}</h3>
+                    {{ .Content }}
+                </section>

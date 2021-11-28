@@ -1,0 +1,29 @@
+[build]
+  publish = "public"
+  command = "bash ./build.sh"
+
+[context.production.environment]
+  HUGO_ENV = "netlify"
+  HUGO_ENABLEGITINFO = "true"
+
+[context.deploy-preview.environment]
+
+[context.branch-deploy.environment]
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'none'; base-uri 'none'; font-src 'self' https://fonts.gstatic.com; frame-ancestors 'none'; img-src 'self'; script-src 'self' https://cdnjs.cloudflare.com; style-src 'self' https://cdnjs.cloudflare.com https://fonts.googleapis.com"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/shield.svg"
+  [headers.values]
+    Content-Security-Policy = "default-src 'none'; style-src 'self' 'unsafe-inline'"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
