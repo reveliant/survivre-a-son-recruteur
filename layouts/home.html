@@ -29,7 +29,7 @@
 			<header id="reveal-header"></header>
 			<div class="slides">
 				<section>
-					<section{{ if .Param "bg-image" }} data-background-image="bg/{{ .Param "bg-image" }}" data-background-opacity=".2" data-background-color="#002255"{{ end }}>
+					<section data-state="center-title"{{ if .Param "bg-image" }} data-background-image="bg/{{ .Param "bg-image" }}" data-background-opacity=".2" data-background-color="#002255"{{ end }}>
 						<h1>{{ .Site.Title }}</h1>
 						<p>{{ .Site.Author.name }}</p>
 					</section>
@@ -39,7 +39,7 @@
 				</section>
 				{{- range sort .Site.Sections ".Weight" "asc"}}
 				<section>
-					<section{{ if .Param "bg-image" }} data-background-image="bg/{{ .Param "bg-image" }}" data-background-opacity=".2" data-background-color="#aa0000"{{ if .Param "bg-position" }} data-background-position="{{ .Param "bg-position" }}"{{ end }}{{ if .Param "bg-size" }} data-background-size="{{ .Param "bg-size" }}"{{ end }}{{ end }}>
+					<section data-state="center-title"{{ if .Param "bg-image" }} data-background-image="bg/{{ .Param "bg-image" }}" data-background-opacity=".2" data-background-color="#aa0000"{{ if .Param "bg-position" }} data-background-position="{{ .Param "bg-position" }}"{{ end }}{{ if .Param "bg-size" }} data-background-size="{{ .Param "bg-size" }}"{{ end }}{{ end }}>
 						<h2>{{ .Title }}</h2>
 						{{ .Content }}
 					</section>
