@@ -6,7 +6,7 @@ weight: 1
 - société de conseil, éditrice d’un logiciel de gestion des risques
 - clients sensibles : État, industrie de défense...
 
-Candidatez à l'un des stages actuellement ouverts :
+Candidatez à l'[un des stages actuellement ouverts](./cyberdyne/) :
 
 - administration système et réseau de son SI
 - architecture et développement de ses solutions logicielles
