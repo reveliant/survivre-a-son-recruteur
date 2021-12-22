@@ -13,7 +13,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'none'; base-uri 'none'; font-src 'self' https://cdnjs.cloudflare.com https://fonts.gstatic.com ; form-action 'none'; frame-ancestors 'none'; img-src 'self' https://unsplash.com; script-src 'self' 'unsafe-eval' https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com"
+    Content-Security-Policy = "default-src 'self'; base-uri 'none'; font-src 'self' https://cdnjs.cloudflare.com https://fonts.gstatic.com ; form-action 'none'; frame-ancestors 'none'; img-src 'self' https://images.unsplash.com; script-src 'self' 'unsafe-eval' https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com"
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
