@@ -1,0 +1,13 @@
+<svg class="logo" viewBox="0 0 100 50" xmlns="http://www.w3.org/2000/svg">
+    <symbol viewBox="-100 0 200 100" id="cyberdyne-pyramid" fill="red">
+        <path d="M 0,0 l 30,30 l -30,30 l -30,-30 z"/>
+        <path d="M 35,35 l 65,65 l -96,0 l 0,-34 z"/>
+        <path d="M -35,35 l -65,65 l 96,0 l 0,-34 z"/>
+    </symbol>
+    <symbol viewBox="0 0 200 150" id="cyberdyne">
+        <use x="0" y="-25" href="#cyberdyne-pyramid" />
+        <text x="100" y="128" class="title">CYBERDYNE</text>
+        <text x="100" y="150" class="subtitle">SYSTEMS</text>
+    </symbol>
+    <use href="#cyberdyne-pyramid" />
+</svg>

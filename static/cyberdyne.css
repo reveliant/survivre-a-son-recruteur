@@ -1,0 +1,26 @@
+
+body {
+    font-family: 'IBM Plex Sans', Arial, Helvetica, sans-serif;
+    min-height: 100%;
+    font-weight: 300;
+}
+.logo {
+    height: 4em;
+}
+section.position ul {
+    margin-left: 3em;
+    margin-bottom: 1em;
+}
+text {
+    text-anchor: middle;
+    font-weight: 900;
+    font-family: 'Orbitron';
+}
+text.title {
+    fill: white;
+    font-size: 28px;
+}
+text.subtitle {
+    fill: dimgrey;
+    font-size: 24px;
+}

@@ -1,0 +1,23 @@
+        {{- define "main" }}
+        <div class="m-6">
+            {{- range .Pages.ByWeight }}
+            <div class="Subhead Subhead--spacious">
+                <h2 class="Subhead-heading" id="{{ .File.ContentBaseName }}">{{ .Title }}</h2>
+            </div>
+            {{ if .Params.img }}
+            <div class="d-md-flex">
+                <div class="flex-auto">
+            {{- end }}
+            {{ .Content }}
+            {{ if .Params.img }}
+                </div>
+                <img class="pl-md-2 pt-2 pt-md-0" src="{{ .Params.img }}" alt="">
+            </div>
+            {{- end }}
+            
+            {{- range .Resources.ByType "page" }}
+            {{- .Render "position" }}
+            {{- end }}
+            {{- end }}
+        </div>
+        {{- end }}

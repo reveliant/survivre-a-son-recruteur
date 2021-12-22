@@ -38,6 +38,7 @@
 					</section>
 				</section>
 				{{- range sort .Site.Sections ".Weight" "asc"}}
+				{{- if ne .Section "cyberdyne" }}
 				<section>
 					<section data-state="center-title"{{ if .Param "bg-image" }} data-background-image="bg/{{ .Param "bg-image" }}" data-background-opacity=".2" data-background-color="#aa0000"{{ if .Param "bg-position" }} data-background-position="{{ .Param "bg-position" }}"{{ end }}{{ if .Param "bg-size" }} data-background-size="{{ .Param "bg-size" }}"{{ end }}{{ end }}>
 						<h2>{{ .Title }}</h2>
@@ -47,6 +48,7 @@
 						{{- partial "slide.html" . -}}
 					{{- end -}}
 				</section>
+				{{- end }}
 				{{- end }}
 			</div>
 		</div>
