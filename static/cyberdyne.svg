@@ -4,10 +4,10 @@
         <path d="M 35,35 l 65,65 l -96,0 l 0,-34 z"/>
         <path d="M -35,35 l -65,65 l 96,0 l 0,-34 z"/>
     </symbol>
-    <symbol viewBox="0 0 200 150" id="cyberdyne">
+    <symbol viewBox="0 0 200 150" id="cyberdyne" text-anchor="middle" font-weight="900" font-family="Orbitron">
         <use x="0" y="-25" href="#cyberdyne-pyramid" />
-        <text x="100" y="128" class="title">CYBERDYNE</text>
-        <text x="100" y="150" class="subtitle">SYSTEMS</text>
+        <text x="100" y="128" fill="white" font-size="28px">CYBERDYNE</text>
+        <text x="100" y="150" class="subtitle" fill="dimgrey" font-size="24px">SYSTEMS</text>
     </symbol>
     <use href="#cyberdyne-pyramid" />
 </svg>
