@@ -1,5 +1,5 @@
         {{- define "main" }}
-        <div class="m-6">
+        <div class="m-3 m-md-6">
             {{- range .Pages.ByWeight }}
             <div class="Subhead Subhead--spacious">
                 <h2 class="Subhead-heading" id="{{ .File.ContentBaseName }}">{{ .Title }}</h2>
@@ -11,7 +11,7 @@
             {{ .Content }}
             {{ if .Params.img }}
                 </div>
-                <img class="pl-md-2 pt-2 pt-md-0" src="{{ .Params.img }}" alt="">
+                <img class="pl-md-2 pt-2 pt-md-0 width-fit" src="{{ .Params.img }}" alt="">
             </div>
             {{- end }}
             
