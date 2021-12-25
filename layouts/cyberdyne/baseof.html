@@ -11,17 +11,17 @@
 		<meta name="build" content="{{ now | time.Format "2006-01-02" }}" />
 		{{ hugo.Generator }}
 
-        <link rel="icon" type="image/svg+xml" href="{{ relURL "/cyberdyne.svg" }}" sizes="any">
+        <link rel="icon" type="image/svg+xml" href="cyberdyne.svg" sizes="any">
 
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/19.1.0/primer.min.css" integrity="sha512-ueZs8+fwLPFMYnEAlm+M46r1rERXrNg5E+hWQdUUQSOEbwEkP7k9yqgEEBN+nSVFtyWQCEdFYBfa0KhlPoO76Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=IBM+Plex+Mono:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=Orbitron:wght@900&display=swap" rel="stylesheet"> 
-        <link rel="stylesheet" href="{{ relURL "/cyberdyne.css" }}"/>
+        <link rel="stylesheet" href="cyberdyne.css"/>
     </head>
     <body>
         <div class="Header">
             <div class="Header-item Header-item--full">
                 <svg class="logo" viewBox="0 0 100 75" xmlns="http://www.w3.org/2000/svg">
-                    <use href="{{ relURL "/cyberdyne.svg" }}#cyberdyne" />
+                    <use href="cyberdyne.svg#cyberdyne" />
                 </svg>
             </div>
             {{- range .Pages.ByWeight }}
