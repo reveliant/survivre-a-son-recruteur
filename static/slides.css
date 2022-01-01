@@ -23,6 +23,7 @@
 .green { color: green }
 .red { color: red }
 .reveal .slides { text-align: left }
+.reveal .speaker-notes { z-index: 1000 }
 .reveal small { color: #996666; font-size: 1em; }
 .structure, li::marker { color: #ee4466 }
 .reveal ul { margin: 0 0 0 1.5em }

@@ -4,6 +4,7 @@ Reveal.initialize({
     progress: true,
     hash: true,
     disableLayout: true,
+    plugins: [ RevealNotes ],
 });
 Reveal.addEventListener('slidechanged', function( event ) {
     // event.previousSlide, event.currentSlide, event.indexh, event.indexv
