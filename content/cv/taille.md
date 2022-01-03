@@ -12,3 +12,13 @@ weight: 2
 
 - compris qui vous êtes
 - identifié **5 points clés** de votre profil
+
+<aside class="notes">
+
+- Réflechissez bien à ce que vous aller mettre, parfois il faut faire des choix
+- On détectera le *bullshit* en entretien !
+  (Ai-je dis que je n'aimais pas les commerciaux ?)
+- Ne cherchez pas à bourrer votre CV, si vous êtes junior on comprendra tout à fait
+  qu'il soit assez peu rempli
+
+</aside>

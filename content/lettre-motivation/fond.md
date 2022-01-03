@@ -12,3 +12,15 @@ weight: 2
 - Le recruteur connaît sa boîte. Inutile de la lui vendre.
 
 {{<icon "arrow-right">}} En **2 minutes**, je dois fixer mon impression
+
+<aside class="notes">
+
+- Faites quelque chose de construit, à la trame lisible
+  
+  > Ce que l'on conçoit bien s’énonce clairement
+  (Nicolas Boileau)
+
+- Je sais lire, et j'ai lu votre CV. Insistez plutôt sur les points pertinents
+  au regard du contexte du poste ou de l'organisme
+
+</aside>

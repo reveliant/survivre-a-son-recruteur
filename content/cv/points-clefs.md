@@ -17,3 +17,15 @@ weight: 3
 
 - Effectivement développées et utilisées
 - C’est frustrant de découvrir qu’en fait non
+
+<aside class="notes">
+
+- Je veux comprendre qui vous êtes
+- Vos expériences, est-ce un emploi ou un stage ? Nos attendus ne seront pas les
+  mêmes.
+- Allez-y molo sur les projets académiques si votre voisin a fait exactement les
+  mêmes (déjà vécu avec des stagiaires d'une même école)
+- Pensez plutôt à tous vos projets personnels, associatifs, ce qui vous apporte
+  compétences techniques ou humaines, ou responsabilités
+
+</aside>
