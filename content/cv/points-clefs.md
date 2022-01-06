@@ -27,5 +27,8 @@ weight: 3
   mêmes (déjà vécu avec des stagiaires d'une même école)
 - Pensez plutôt à tous vos projets personnels, associatifs, ce qui vous apporte
   compétences techniques ou humaines, ou responsabilités
+- Liens LinkedIn : en général, je n'ai pas le temps d'aller voir votre profil
+  LinkedIn et je ne le fais que très exceptionnellement. Mais un RH le fera
+  peut-être plus naturellement.
 
 </aside>
