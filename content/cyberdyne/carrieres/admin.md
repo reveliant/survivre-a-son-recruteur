@@ -4,7 +4,7 @@ ref: 2022-DSI-07S
 statut: Stage
 division: systèmes d'information
 ---
-La division recherche d'information, forte de 47 personnes, est en charge de
+La division systèmes d'information, forte de 47 personnes, est en charge de
 l'évolution et du maintien en conditions opérationalles des systèmes
 d'information métier et support de Cyberdyne Systems.
 
