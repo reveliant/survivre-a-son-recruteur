@@ -5,7 +5,7 @@ Reveal.initialize({
     progress: true,
     hash: true,
     disableLayout: true,
-    plugins: [ RevealNotes ],
+    plugins: [ RevealNotes, RevealSearch ],
     showNotes: ! params.has("hideNotes"),
 });
 Reveal.addEventListener('slidechanged', function( event ) {
