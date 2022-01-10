@@ -20,7 +20,9 @@ weight: 2
   > Ce que l'on conçoit bien s’énonce clairement
   (Nicolas Boileau)
 
-- Je sais lire, et j'ai lu votre CV. Insistez plutôt sur les points pertinents
+- Faites une lettre que l'on ne s'essoufle pas à lire, tentez en la lisant à
+  haute voix : si vous n'arrivez pas à respirer, notre cerveau non plus
+- Je sais lire, et j'ai lu, votre CV. Insistez plutôt sur les points pertinents
   au regard du contexte du poste ou de l'organisme
 
 </aside>
