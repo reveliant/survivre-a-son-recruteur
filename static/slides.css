@@ -26,7 +26,7 @@
 .reveal .speaker-notes { z-index: 1000 }
 .reveal small { color: #996666; font-size: 1em; }
 .structure, li::marker { color: #ee4466 }
-.reveal ul { margin: 0 0 0 1.5em }
+.reveal ul { padding: 0 0 0 1em }
 .reveal h1 {
     --r-heading-font-weight: bold;
     --r-heading-line-height: 0.9;
@@ -77,6 +77,7 @@
 
 @media screen and (min-width: 700px) {
     :root { --r-main-font-size: 20pt; }
+    .reveal ul { margin: 0 0 0 1em }
     .reveal li { margin: 0 0 10px 0 }
 }
 
