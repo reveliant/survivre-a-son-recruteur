@@ -21,14 +21,17 @@ weight: 3
 <aside class="notes">
 
 - Je veux comprendre qui vous êtes
-- Vos expériences, est-ce un emploi ou un stage ? Nos attendus ne seront pas les
-  mêmes.
-- Allez-y molo sur les projets académiques si votre voisin a fait exactement les
-  mêmes (déjà vécu avec des stagiaires d'une même école)
-- Pensez plutôt à tous vos projets personnels, associatifs, ce qui vous apporte
-  compétences techniques ou humaines, ou responsabilités
-- Liens LinkedIn : en général, je n'ai pas le temps d'aller voir votre profil
-  LinkedIn et je ne le fais que très exceptionnellement. Mais un RH le fera
-  peut-être plus naturellement.
+- Pour chaque expérience :
+  - qui (employeur)
+  - quoi (missions)
+  - où (pays si ≠ France, ville / région éventuellement)
+  - quand (années voire mois, durée si nécessaire)
+- Vos expériences : emploi ou stage ? Nos attendus ne sont pas les mêmes
+- Mollo sur les projets académiques si votre voisin a fait exactement les
+  mêmes !
+- Pensez plutôt à vos projets personnels, associatifs, qui vous différentient et
+  apportent responsabilités ou compétences techniques ou humaines
+- Liens LinkedIn / QR code : je ne vais que très exceptionnellement voir votre profil
+  mais un RH le fera peut-être plus naturellement.
 
 </aside>

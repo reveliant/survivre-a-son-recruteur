@@ -16,6 +16,12 @@ weight: 2
 <aside class="notes">
 
 - Réflechissez bien à ce que vous aller mettre, parfois il faut faire des choix
+- Vous pouvez jouer avec les tailles de polices pour mieux hiérarchiser l'information
+  et gratter un peu de place
+- Vous pouvez aussi jouer à la marge sur l'espacement entre caractères pour faire
+  tenir une ligne un poil trop longue sur une seule ligne
+- Des images comme des pictogrammes ou les logos des entreprises peuvent aider à
+  la compréhension sans prendre top de place
 - On détectera le *bullshit* en entretien !
   (Ai-je dis que je n'aimais pas les commerciaux ?)
 - Ne cherchez pas à bourrer votre CV, si vous êtes junior on comprendra tout à fait
