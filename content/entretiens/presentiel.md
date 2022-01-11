@@ -13,9 +13,10 @@ weight: 5
 <aside class="notes">
 
 - Évitez le jeans baskets en première intention
-- Prendre des notes est capital, ne pas le faire est un *red flag* pour le recruteur.\
+- **Prendre des notes** est capital, ne pas le faire est un ***red flag***.
   Dans votre futur métier, vous **devrez** le faire (avec un client, avec votre chef...)
-- On ne parle pas de questions bidons, mais cherchez à vous intéresser à l'organisation,
-  aux méthodes de travail, à des compétences que vous devriez développer ou améliorer
+- Pour la fin, on ne parle pas de questions bidons mais cherchez à vous intéresser
+  à l'organisation, aux méthodes de travail, aux compétences que vous pourriez
+  développer ou améliorer pour la prise de poste
 
 </aside>

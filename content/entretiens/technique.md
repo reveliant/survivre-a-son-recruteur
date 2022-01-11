@@ -14,13 +14,14 @@ weight: 6
 
 <aside class="notes">
 
-- Si vous ne savez pas (ce qui pourra arriver souvent dans votre vie professionnelle),
-  dites-le, mais proposez en complément une alternative ou des pistes de réflexion
+- Lorsque vous ne savez pas (ce qui arrivera souvent dans votre vie professionnelle),
+  dites-le mais complétez avec une alternative ou des pistes de réflexion
 
   Google (ou n'importe quel moteur de recherche) est votre ami !
   
 - Évitez de vous enfoncer dans une réponse à la noix, et d'y sauter à pieds joints
-- Pensez à chercher les questions où vous avez séché pour les entretiens suivants
+- Restez motivé et essayez de garder le sourire
+- Pour les entretiens suivants, pensez à chercher les questions où vous avez séché
   (nous, on a pris des notes...)
 
 </aside>
