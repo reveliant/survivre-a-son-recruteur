@@ -1,6 +1,7 @@
 ---
 title: Pourquoi moi ?
 bg-image: vader_strangling.jpg
+showNotes: true
 ---
 ### Recruteur dans mon service
 

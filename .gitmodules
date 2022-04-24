@@ -1,0 +1,3 @@
+[submodule "themes/rdubois-reveal"]
+	path = themes/rdubois-reveal
+	url = https://github.com/reveliant/rdubois-reveal.git

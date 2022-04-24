@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://survivre-a-son-recruteur.rdubois.fr/"
 languageCode = "fr-fr"
 title = "Survivre à son recruteur"
 enableInlineShortcodes = true
+theme = "rdubois-reveal"
 
 [author]
 name = "Rémi Dubois • STI 2011"
