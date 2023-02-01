@@ -1,6 +1,6 @@
 ---
 title: Consultant junior en gestion des risques H/F
-ref: 2022-DEC-11S
+ref: 2023-DEC-11S
 statut: Stage
 division: expertise conseil
 ---

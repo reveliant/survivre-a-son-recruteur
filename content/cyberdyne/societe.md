@@ -15,5 +15,5 @@ comptes comme l'État et des industriels de défense.
 
 <div class="flash">
 Communiqué de presse : <span class="Link text-italic">Une croissance soutenue
-avec un chiffre d'affaire 2021 en hausse à 64 M€</span>.
+avec un chiffre d'affaire 2022 en hausse à 64 M€</span>.
 </div>

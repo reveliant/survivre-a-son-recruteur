@@ -1,6 +1,6 @@
 ---
 title: Analyste en nouvelles typologies de risques H/F
-ref: 2022-DRD-04S
+ref: 2023-DRD-04S
 statut: Stage
 division: recherche & développement
 ---
