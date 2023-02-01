@@ -1,0 +1,12 @@
+baseURL = "https://team-cv.ada-risques.fr/"
+languageCode = "fr-fr"
+title = "AdA Risques Team CV : survivre à son recruteur"
+enableInlineShortcodes = true
+theme = "adarisques-reveal"
+
+[author]
+name = "Rémi Dubois • STI 2011"
+email = "team-cv@ada-risques.fr"
+
+[markup.goldmark.renderer]
+unsafe = true
