@@ -22,7 +22,7 @@ install_tidy () {
 
 main () {
     echo "Build with Hugo"
-    hugo
+    hugo $HUGO_OPTIONS
 
     # Installing / getting HTML Tidy
     if [ ! -f ./tidy ]
