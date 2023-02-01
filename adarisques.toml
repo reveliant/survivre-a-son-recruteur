@@ -1,6 +1,6 @@
 baseURL = "https://team-cv.ada-risques.fr/"
 languageCode = "fr-fr"
-title = "AdA Risques Team CV : survivre à son recruteur"
+title = "Team CV : survivre à son recruteur"
 enableInlineShortcodes = true
 theme = "adarisques-reveal"
 
