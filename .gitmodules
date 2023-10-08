@@ -1,6 +1,6 @@
 [submodule "themes/rdubois-reveal"]
 	path = themes/rdubois-reveal
-	url = https://github.com/rdubois/hugo-theme-reveal.git
+	url = https://github.com/reveliant/hugo-theme-reveal.git
 
 [submodule "themes/adarisques-reveal"]
 	path = themes/adarisques-reveal
